@@ -38,7 +38,7 @@ Todo o conteúdo dos problemas pertence oficialmente à Beecrowd.
 
 ## 👨‍💻 Autor
 
-- **Felipe Alexsander Peixoto de Avelar**
+- **Felipe Alexsander**
 
 ---
 
