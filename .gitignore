@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Pasta de build/compilação
+out/
+
+# Arquivos do sistema (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
