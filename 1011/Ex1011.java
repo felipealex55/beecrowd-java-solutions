@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Ex1010 {
+public class Ex1011 {
  
     public static void main(String[] args) throws IOException {
  
